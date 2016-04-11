@@ -6,5 +6,5 @@
     <dimen name="textview">26dp</dimen>
     <dimen name="textview2">43dp</dimen>
     <dimen name="textview3">24dp</dimen>
-    <dimen name="textview4">26dp</dimen>
+    <dimen name="textview4">50dp</dimen>
 </resources>
